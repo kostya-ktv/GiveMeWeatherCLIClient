@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/npm/v/react-select.svg)](https://www.npmjs.com/package/give-me-weather-module-cli)
+[![NPM]](https://www.npmjs.com/package/give-me-weather-module-cli)
 
 #Give me weather cli client
 
