@@ -1,0 +1,30 @@
+{
+  "name": "give-me-weather-module-cli",
+  "version": "1.0.0",
+  "description": "CLI fo getting weather",
+  "main": "app.js",
+  "bin": {
+    "give-me-weather": "app.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kostya-ktv/GiveMeWeatherCLIClient.git"
+  },
+  "keywords": [],
+  "author": "Kostya Kotov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kostya-ktv/GiveMeWeatherCLIClient/issues"
+  },
+  "homepage": "https://github.com/kostya-ktv/GiveMeWeatherCLIClient#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk": "^5.0.1",
+    "https": "^1.0.0"
+  }
+}
