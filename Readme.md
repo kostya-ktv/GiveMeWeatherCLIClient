@@ -1,4 +1,5 @@
-[![NPM]https://img.shields.io/badge/<NPM>-<WEATHER-CLI>-<RED>)](https://www.npmjs.com/package/give-me-weather-module-cli)
+[![NPM](https://img.shields.io/npm/v/0.)](https://www.npmjs.com/package/give-me-weather-module-cli)
+  
 
 #Give me weather cli client
 
